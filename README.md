@@ -17,4 +17,4 @@ Video demonstration:
 
 https://www.youtube.com/watch?v=XxmxYkoonhE&feature=youtu.be
 
-Contact +9177573730 or +919848396972 or write to kamakshaiah.m@gmail.com for training and consultancy. 
+Contact +919177573730 or +919848396972 or write to kamakshaiah.m@gmail.com for training and consultancy. 
