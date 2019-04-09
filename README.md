@@ -13,4 +13,8 @@ There is additional menu called Meta Analysis. This technique is intended for cl
 
 This application depends on few R packages viz., shiny; shinydashboard; nortest; mvnormtest; MASS; shinyLP; qualityTools; meta;  and qcc. These packages need to be installed before running this application in RStudio. Visit https://www.r-bloggers.com/installing-r-packages/ for more details on installing packages in R. 
 
+Video demonstration: 
+
+https://www.youtube.com/watch?v=XxmxYkoonhE&feature=youtu.be
+
 Contact +9177573730 or +919848396972 or write to kamakshaiah.m@gmail.com for training and consultancy. 
